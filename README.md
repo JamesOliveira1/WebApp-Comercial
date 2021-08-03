@@ -6,11 +6,11 @@ Sistema de gestão comercial que cadastra, edita, deleta informações sobre cli
 ## Imagens
 
 <p>
-  <img src="src/assets/images/img 1.png" width="650" title="preview">
+  <img src="src/assets/images/img 1.png" width="800" title="preview">
   <p>    </p>
-  <img src="src/assets/images/img 2.png" width="650" alt="preview">
+  <img src="src/assets/images/img 2.png" width="800" alt="preview">
   <p>    </p>
-  <img src="src/assets/images/img 3.png" width="650" alt="preview">
+  <img src="src/assets/images/img 3.png" width="800" alt="preview">
 
 </p>
 

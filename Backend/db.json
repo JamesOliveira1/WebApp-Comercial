@@ -1,0 +1,41 @@
+{
+  "Clients": [
+    {
+      "name": "cliente 1",
+      "contact": "(XX) 0000-0000",
+      "details": "status da negociação/atendimento",
+      "id": 3
+    },
+    {
+      "name": "cliente 2",
+      "contact": "(XX) 0000-0000",
+      "details": "status da negociação/atendimento",
+      "id": 4
+    },
+    {
+      "name": "cliente 3",
+      "contact": "(XX) 0000-0000",
+      "details": "status da negociação/atendimento",
+      "id": 5
+    },
+    {
+      "name": "cliente 4",
+      "contact": "(XX) 0000-0000",
+      "details": "status da negociação/atendimento",
+      "id": 6
+    },
+    {
+      "name": "cliente 5",
+      "contact": "(XX) 0000-0000",
+      "details": "status da negociação/atendimento",
+      "id": 7
+    },
+    {
+      "name": "cliente 6",
+      "contact": "(XX) 0000-0000",
+      "details": "status da negociação/atendimento",
+      "id": 9
+    }
+    
+  ]
+}

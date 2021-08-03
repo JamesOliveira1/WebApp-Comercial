@@ -8,11 +8,11 @@
 ## Imagens
 
 <p>
-  <img src="src/assets/images/img 1.png" width="450" title="preview">
+  <img src="src/assets/images/img 1.png" width="600" title="preview">
   <p>    </p>
-  <img src="src/assets/images/img 2.png" width="450" alt="preview">
+  <img src="src/assets/images/img 2.png" width="600" alt="preview">
   <p>    </p>
-  <img src="src/assets/images/img 3.png" width="450" alt="preview">
+  <img src="src/assets/images/img 3.png" width="600" alt="preview">
 
 </p>
 

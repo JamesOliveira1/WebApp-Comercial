@@ -1,18 +1,16 @@
 
 # Aplicação com Angular
 
-> Sistema de gestão comercial que cadastra, edita, deleta informações sobre clientes mantendo um banco de dados
-
-> This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+Sistema de gestão comercial que cadastra, edita, deleta informações sobre clientes mantendo um banco de dados
 
 ## Imagens
 
 <p>
-  <img src="src/assets/images/img 1.png" width="600" title="preview">
+  <img src="src/assets/images/img 1.png" width="650" title="preview">
   <p>    </p>
-  <img src="src/assets/images/img 2.png" width="600" alt="preview">
+  <img src="src/assets/images/img 2.png" width="650" alt="preview">
   <p>    </p>
-  <img src="src/assets/images/img 3.png" width="600" alt="preview">
+  <img src="src/assets/images/img 3.png" width="650" alt="preview">
 
 </p>
 
@@ -21,6 +19,8 @@
 O objetivo era apenas desenvolver um sistema para ganhar experiência com Angular e alguns frameworks;  
 
 ## Versões - Histórico
+
+> This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 * 0.0.1
     * Criação do sistema

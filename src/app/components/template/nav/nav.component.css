@@ -1,0 +1,23 @@
+.sidnav{
+    width:500px;
+    
+
+}
+.mat-drawer{
+    width:200px;
+    border-right: 3px solid #ffffff34;
+    background-color: #424242;
+}
+.sidenav a{
+    
+    color: #ffffff;
+}
+
+.sidenav i{
+    padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #424242;
+}

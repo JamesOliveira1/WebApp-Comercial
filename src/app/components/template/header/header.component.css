@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items : center;
+    background-color: #7903a1;
+    
+}
+
+.header a{
+    display: flex;
+    align-items : center;
+    text-decoration: none;
+}
+
+.header .title-group {
+    position:center;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.header i{
+    padding-right: 15px;
+}
+.header .title-group a{
+    color: #ffffff;
+    
+}
+
+.header .logo {
+    max-height: 25px;;
+}
+
+

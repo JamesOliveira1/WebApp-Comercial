@@ -1,0 +1,30 @@
+.home .title{
+    font-size:2rem;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
+
+.home .subtitle{
+    font-size:1.1em;
+    margin-bottom: 10px;
+    
+}
+
+.span{ 
+    margin-top: 10px;
+}
+
+.detalhe{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size:1.2rem;
+    background-color: #75757533;
+    font-weight: 500;
+    color: #69f0ae;
+}
+
+.detalhe2{
+    border-bottom: 2px solid #69f0ae;
+}
+

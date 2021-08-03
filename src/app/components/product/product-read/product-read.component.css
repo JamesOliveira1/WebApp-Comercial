@@ -1,0 +1,14 @@
+table {  
+    width: 100%;
+  }
+
+  .material-icons{
+    color:#69f0ae;
+    padding-left: 15px;
+    vertical-align: middle
+  }
+
+ #phone{
+   color:#69f0ae;
+   vertical-align: middle
+ }
